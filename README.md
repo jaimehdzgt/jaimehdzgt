@@ -33,7 +33,7 @@
   <!-- Cambia el color de fondo si quieres: #ffffff (claro) | #0F172A (oscuro) -->
   <!-- POWER BI -->
   <span style="background:#ffffff; padding:10px 12px; border-radius:12px; display:inline-block; margin:6px;">
-    <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Power BI" height="36" />
+    <img src="[https://cdn.worldvectorlogo.com/logos/power-bi.svg](https://www.vectorlogo.zone/logos/microsoft-powerbi/microsoft-powerbi-icon.svg)" alt="Power BI" height="36" />
     <!-- Fallback: descomenta si el de arriba no carga -->
     <!-- <img src="https://www.vectorlogo.zone/logos/microsoft-powerbi/microsoft-powerbi-icon.svg" alt="Power BI" height="36" /> -->
   </span>
