@@ -26,71 +26,69 @@
 
 ---
 
-## ⚡ Lenguajes y herramientas  
-
 ## ⚡ Lenguajes y herramientas
 
 <p align="center">
 
-  <!-- Cambia el color de fondo aquí: #ffffff (blanco) o el que prefieras -->
-  <!-- Ejemplos bonitos: #ffffff (blanco) | #0F172A (slate) | #111827 | #1f2937 -->
-
-  <!-- Power BI -->
-  <span style="background:#ffffff; padding:10px; border-radius:12px; display:inline-block; margin:6px;">
-    <img src="https://www.vectorlogo.zone/logos/microsoft-powerbi/microsoft-powerbi-icon.svg" alt="Power BI" height="36" />
+  <!-- Cambia el color de fondo si quieres: #ffffff (claro) | #0F172A (oscuro) -->
+  <!-- POWER BI -->
+  <span style="background:#ffffff; padding:10px 12px; border-radius:12px; display:inline-block; margin:6px;">
+    <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Power BI" height="36" />
+    <!-- Fallback: descomenta si el de arriba no carga -->
+    <!-- <img src="https://www.vectorlogo.zone/logos/microsoft-powerbi/microsoft-powerbi-icon.svg" alt="Power BI" height="36" /> -->
   </span>
 
-  <!-- Tableau (icono a color) -->
-  <span style="background:#ffffff; padding:10px; border-radius:12px; display:inline-block; margin:6px;">
+  <!-- TABLEAU -->
+  <span style="background:#ffffff; padding:10px 12px; border-radius:12px; display:inline-block; margin:6px;">
     <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" height="36" />
+    <!-- Fallback -->
+    <!-- <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" height="36" /> -->
+  </span>
+
+  <!-- EXCEL -->
+  <span style="background:#ffffff; padding:10px 12px; border-radius:12px; display:inline-block; margin:6px;">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" alt="Excel" height="36" />
+    <!-- Fallback -->
+    <!-- <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" alt="Excel" height="36" /> -->
   </span>
 
   <!-- SQL Server -->
-  <span style="background:#ffffff; padding:10px; border-radius:12px; display:inline-block; margin:6px;">
+  <span style="background:#ffffff; padding:10px 12px; border-radius:12px; display:inline-block; margin:6px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" height="36" />
   </span>
 
   <!-- Python -->
-  <span style="background:#ffffff; padding:10px; border-radius:12px; display:inline-block; margin:6px;">
+  <span style="background:#ffffff; padding:10px 12px; border-radius:12px; display:inline-block; margin:6px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="36" />
   </span>
 
   <!-- Pandas -->
-  <span style="background:#ffffff; padding:10px; border-radius:12px; display:inline-block; margin:6px;">
+  <span style="background:#ffffff; padding:10px 12px; border-radius:12px; display:inline-block; margin:6px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" height="36" />
   </span>
 
   <!-- NumPy -->
-  <span style="background:#ffffff; padding:10px; border-radius:12px; display:inline-block; margin:6px;">
+  <span style="background:#ffffff; padding:10px 12px; border-radius:12px; display:inline-block; margin:6px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" height="36" />
   </span>
 
   <!-- scikit-learn -->
-  <span style="background:#ffffff; padding:10px; border-radius:12px; display:inline-block; margin:6px;">
+  <span style="background:#ffffff; padding:10px 12px; border-radius:12px; display:inline-block; margin:6px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" height="36" />
   </span>
 
   <!-- Jupyter -->
-  <span style="background:#ffffff; padding:10px; border-radius:12px; display:inline-block; margin:6px;">
+  <span style="background:#ffffff; padding:10px 12px; border-radius:12px; display:inline-block; margin:6px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" height="36" />
   </span>
 
-  <!-- Excel -->
-  <span style="background:#ffffff; padding:10px; border-radius:12px; display:inline-block; margin:6px;">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" alt="Excel" height="36" />
-  </span>
-
   <!-- Git -->
-  <span style="background:#ffffff; padding:10px; border-radius:12px; display:inline-block; margin:6px;">
+  <span style="background:#ffffff; padding:10px 12px; border-radius:12px; display:inline-block; margin:6px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="36" />
   </span>
 
-  <!-- VS Code -->
-  <span style="background:#ffffff; padding:10px; border-radius:12px; display:inline-block; margin:6px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" height="36" />
-  </span>
-
 </p>
+
 
 
 
