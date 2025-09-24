@@ -90,13 +90,3 @@
 </p>
 
 
-
-
-
----
-
-## 📊 Stats de GitHub  
-
-![Jaime's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaimehdzgt&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaimehdzgt&layout=compact&theme=radical)
