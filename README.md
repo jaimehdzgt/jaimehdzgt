@@ -20,9 +20,9 @@
 
 ## 🔗 Conéctemos  
 
-- 📧 [jaime.tucorreo@gmail.com](mailto:jaime.tucorreo@gmail.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/tuusuario)  
-- 🌐 [Portafolio/Website](https://tusitio.com)  
+- 📧 [jaime.hdz.gt@gmail.com](mailto:jaime.tucorreo@gmail.com)  
+- 💼 [LinkedIn](https://linkedin.com/in/jaime-hdz/)  
+
 
 ---
 
