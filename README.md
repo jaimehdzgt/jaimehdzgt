@@ -28,65 +28,70 @@
 
 ## ⚡ Lenguajes y herramientas  
 
-<!-- Rejilla de iconos -->
+## ⚡ Lenguajes y herramientas
+
 <p align="center">
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="48"/>
-  </a>
-  <!-- Pandas -->
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" height="48"/>
-  </a>
-  <!-- NumPy -->
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" height="48"/>
-  </a>
-  <!-- scikit-learn -->
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" height="48"/>
-  </a>
-  <!-- Jupyter -->
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" height="48"/>
-  </a>
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="48"/>
-  </a>
-  <!-- GitHub -->
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="48"/>
-  </a>
-  <!-- VS Code -->
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" height="48"/>
-  </a>
+
+  <!-- Cambia el color de fondo aquí: #ffffff (blanco) o el que prefieras -->
+  <!-- Ejemplos bonitos: #ffffff (blanco) | #0F172A (slate) | #111827 | #1f2937 -->
+
+  <!-- Power BI -->
+  <span style="background:#ffffff; padding:10px; border-radius:12px; display:inline-block; margin:6px;">
+    <img src="https://www.vectorlogo.zone/logos/microsoft-powerbi/microsoft-powerbi-icon.svg" alt="Power BI" height="36" />
+  </span>
+
+  <!-- Tableau (icono a color) -->
+  <span style="background:#ffffff; padding:10px; border-radius:12px; display:inline-block; margin:6px;">
+    <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" height="36" />
+  </span>
+
   <!-- SQL Server -->
-  <a href="https://www.microsoft.com/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" height="48"/>
-  </a>
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="48"/>
-  </a>
-  <!-- PostgreSQL -->
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="48"/>
-  </a>
-  <!-- Tableau (simpleicons, monocromo) -->
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg" alt="Tableau" height="48"/>
-  </a>
-  <!-- Power BI (simpleicons, monocromo) -->
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powerbi.svg" alt="Power BI" height="48"/>
-  </a>
-  <!-- Excel (simpleicons, monocromo) -->
-  <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftexcel.svg" alt="Excel" height="48"/>
-  </a>
+  <span style="background:#ffffff; padding:10px; border-radius:12px; display:inline-block; margin:6px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" height="36" />
+  </span>
+
+  <!-- Python -->
+  <span style="background:#ffffff; padding:10px; border-radius:12px; display:inline-block; margin:6px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="36" />
+  </span>
+
+  <!-- Pandas -->
+  <span style="background:#ffffff; padding:10px; border-radius:12px; display:inline-block; margin:6px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" height="36" />
+  </span>
+
+  <!-- NumPy -->
+  <span style="background:#ffffff; padding:10px; border-radius:12px; display:inline-block; margin:6px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" height="36" />
+  </span>
+
+  <!-- scikit-learn -->
+  <span style="background:#ffffff; padding:10px; border-radius:12px; display:inline-block; margin:6px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" height="36" />
+  </span>
+
+  <!-- Jupyter -->
+  <span style="background:#ffffff; padding:10px; border-radius:12px; display:inline-block; margin:6px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" height="36" />
+  </span>
+
+  <!-- Excel -->
+  <span style="background:#ffffff; padding:10px; border-radius:12px; display:inline-block; margin:6px;">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" alt="Excel" height="36" />
+  </span>
+
+  <!-- Git -->
+  <span style="background:#ffffff; padding:10px; border-radius:12px; display:inline-block; margin:6px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="36" />
+  </span>
+
+  <!-- VS Code -->
+  <span style="background:#ffffff; padding:10px; border-radius:12px; display:inline-block; margin:6px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" height="36" />
+  </span>
+
 </p>
+
 
 
 
