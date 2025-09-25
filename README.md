@@ -40,7 +40,7 @@
 
  <!-- TABLEAU (Salesforce media library, PNG a color) -->
 <span style="background:#ffffff; padding:10px 12px; border-radius:12px; display:inline-block; margin:6px;">
-  <img src="https://www.salesforce.com/news/wp-content/uploads/sites/3/2024/02/tableau-from-salesforce-logo-color-1.png" alt="Tableau" height="36" />
+  <img src="assets/logos/tableau.png" alt="Tableau" height="36" /> alt="Tableau" height="36" />
 </span>
 
 <!-- EXCEL (Wikimedia Commons, SVG oficial) -->
