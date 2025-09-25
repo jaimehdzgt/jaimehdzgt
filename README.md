@@ -38,19 +38,16 @@
     <!-- <img src="https://www.vectorlogo.zone/logos/microsoft-powerbi/microsoft-powerbi-icon.svg" alt="Power BI" height="36" /> -->
   </span>
 
-  <!-- TABLEAU -->
-  <span style="background:#ffffff; padding:10px 12px; border-radius:12px; display:inline-block; margin:6px;">
-    <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" height="36" />
-    <!-- Fallback -->
-    <!-- <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" height="36" /> -->
-  </span>
+ <!-- TABLEAU (Salesforce media library, PNG a color) -->
+<span style="background:#ffffff; padding:10px 12px; border-radius:12px; display:inline-block; margin:6px;">
+  <img src="https://www.salesforce.com/news/wp-content/uploads/sites/3/2024/02/tableau-from-salesforce-logo-color-1.png" alt="Tableau" height="36" />
+</span>
 
-  <!-- EXCEL -->
-  <span style="background:#ffffff; padding:10px 12px; border-radius:12px; display:inline-block; margin:6px;">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" alt="Excel" height="36" />
-    <!-- Fallback -->
-    <!-- <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" alt="Excel" height="36" /> -->
-  </span>
+<!-- EXCEL (Wikimedia Commons, SVG oficial) -->
+<span style="background:#ffffff; padding:10px 12px; border-radius:12px; display:inline-block; margin:6px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel" height="36" />
+</span>
+
 
   <!-- SQL Server -->
   <span style="background:#ffffff; padding:10px 12px; border-radius:12px; display:inline-block; margin:6px;">
