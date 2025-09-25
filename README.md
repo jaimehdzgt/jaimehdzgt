@@ -38,10 +38,11 @@
     <!-- <img src="https://www.vectorlogo.zone/logos/microsoft-powerbi/microsoft-powerbi-icon.svg" alt="Power BI" height="36" /> -->
   </span>
 
- <!-- TABLEAU (Salesforce media library, PNG a color) -->
+ <!-- TABLEAU (local, con tarjeta/fondo) -->
 <span style="background:#ffffff; padding:10px 12px; border-radius:12px; display:inline-block; margin:6px;">
-  <img src="assets/logos/tableau.png" alt="Tableau" height="36" /> alt="Tableau" height="36" />
+  <img src="assets/logos/tableau.png" alt="Tableau" height="36" />
 </span>
+
 
 <!-- EXCEL (Wikimedia Commons, SVG oficial) -->
 <span style="background:#ffffff; padding:10px 12px; border-radius:12px; display:inline-block; margin:6px;">
